@@ -10,15 +10,15 @@ Idea, concepto, investigacion, GDD (Game Design Document) y prototipos
 
 Programacion, arte, animacion, audio, niveles y mecanicas
 
-#### 3 Testing & QA
+#### 3. Testing & QA
 
 Pruebas, deteccion de errores, balance y optmizacion
 
-#### 4 Lanzamiento
+#### 4. Lanzamiento
 
 Compilacion, publicacion y distribucion
 
-#### 5 Post lanzamiento
+#### 5. Post lanzamiento
 
 Correcciones, actualizaciones, mejoras y soporte
 
